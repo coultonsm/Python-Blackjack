@@ -10,9 +10,9 @@ To run the project:
 2. Click "Terminal" and then "New Terminal"
 3. Enter these commands:
     
-    python -m venv venv
-    venv\Scripts\activate
-    pip install -r requirements.txt
+    `python -m venv venv`,
+    `venv\Scripts\activate`
+    `pip install -r requirements.txt`
 
 This creates a virtual environment within this program's folder
 which allows for the requirements to be installed without affecting
