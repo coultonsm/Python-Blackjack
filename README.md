@@ -1,5 +1,5 @@
-# Python-Blackjack
-Blackjack in Python w/ Tkinter
+# Python-Blackjack (CSCI 124 Final Project)
+Blackjack in Python w/ Tkinter 
 
 This project uses the tkinter library to create a functional GUI frontend 
 for the card game Blackjack. The backend uses objects to store data 
