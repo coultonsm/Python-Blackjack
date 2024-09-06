@@ -11,7 +11,9 @@ To run the project:
 3. Enter these commands:
     
     `python -m venv venv`,
-    `venv\Scripts\activate`
+   
+    `venv\Scripts\activate`,
+   
     `pip install -r requirements.txt`
 
 This creates a virtual environment within this program's folder
